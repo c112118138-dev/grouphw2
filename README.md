@@ -35,7 +35,7 @@
 
 ---
 
-## 3️⃣ PERT/CPM 依賴圖
+## 3️⃣ PERT/CPM 
 ```mermaid
 graph TD
 T01[文獻探討] --> T02[需求分析]
